@@ -1,0 +1,7 @@
+{
+    "Host": "fkt-autocam-postgres.c8eel1ayybza.eu-central-1.rds.amazonaws.com",
+    "Port": 5432,
+    "User": "test",
+    "Pwd": "test",
+    "DBName": "quote"
+}
